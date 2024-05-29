@@ -7,6 +7,7 @@ public class Demo4 {
 		 System.out.println("print new line");
 		 System.out.println("print second new line");
 		 System.out.println("print Third new line");
+		 System.out.println("print Fourth  new line");
 	}
 
 }
